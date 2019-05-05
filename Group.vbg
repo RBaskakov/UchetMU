@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=Client\Client.vbp
+Project=Report\Report.vbp
