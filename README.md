@@ -8,4 +8,10 @@
   
 [Скачать проект в Visual Studio 2017 Express](https://github.com/RBaskakov/1C/UchetPU/УчётПУ.dt)
 
+[Скачать дистрибутив](https://github.com/RBaskakov/1C)
+
 [Скачать инструкцию](https://github.com/RBaskakov/1C)
+
+Смотрите также:
+
+[Мои решения на 1С](https://github.com/RBaskakov/1C)
