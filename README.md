@@ -5,8 +5,6 @@
   - Ведение реестра оказываемых медицинских услуг.
   - Формирование прейскуранта цен, реестра оказанных услуг, отчета по доходам в разрезе статей калькуляции и подразделений, отчета для страховой компании в формате Microsoft Excel и Microsoft Word.
   
-[Скачать проект в Visual Studio 2017 Express](https://github.com/RBaskakov/1C/UchetPU/УчётПУ.dt)
-
 [Скачать дистрибутив](https://github.com/RBaskakov/1C)
 
 [Скачать инструкцию](https://github.com/RBaskakov/1C)
