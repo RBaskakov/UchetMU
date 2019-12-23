@@ -15,6 +15,6 @@
 
 [Мои решения на 1С](https://github.com/RBaskakov/1C)
 
-[Программа для расчёта строительных конструкций СтройРасчёты](https://github.com/RBaskakov/1C)
+[Программа для расчёта строительных конструкций СтройРасчёты](https://github.com/RBaskakov/Stroy)
 
 ©Баскаков Роман Анатольевич, roman_box@mail.ru
