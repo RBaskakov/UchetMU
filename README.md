@@ -5,7 +5,7 @@
   - Ведение реестра оказываемых медицинских услуг.
   - Формирование прейскуранта цен, реестра оказанных услуг, отчета по доходам в разрезе статей калькуляции и подразделений, отчета для страховой компании в формате Microsoft Excel и Microsoft Word.
   
-[Скачать дистрибутив](https://github.com/RBaskakov/UchetMU/blob/master/UchetMU_Distr.rar)
+[Скачать дистрибутив для Windows 32 bit](https://github.com/RBaskakov/UchetMU/blob/master/UchetMU_Distr.rar)
 
 [Скачать инструкцию](https://github.com/RBaskakov/UchetMU/blob/master/UchetMU.chm)
 
