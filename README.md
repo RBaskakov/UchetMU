@@ -7,6 +7,8 @@
   
 [Скачать дистрибутив для Windows 32 bit](https://github.com/RBaskakov/UchetMU/blob/master/UchetMU_Distr.rar)
 
+[Скачать дистрибутив для Windows 64 bit](https://github.com/RBaskakov/UchetMU/blob/master/UchetMU_Distr64.rar)
+
 [Скачать инструкцию](https://github.com/RBaskakov/UchetMU/blob/master/UchetMU.chm)
 
 **Использование данной разработки в любых целях, кроме ознакомительных, запрещено.**
